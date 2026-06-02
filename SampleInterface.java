@@ -5,4 +5,5 @@ public interface SampleInterface {
     int div(int a, int b);
     int mod(int a, int b);
     int pow(int a, int b);
+    int rem(int a, int b);
 }
